@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrencyConverterByTitov</string>
+    <string name="select_initial_currency">Выберите исходную валюту</string>
+    <string name="enter_initial_currency_amount">Введите сумму в исходной валюте</string>
+    <string name="select_final_currency">Введите конечную валюту</string>
+    <string name="convert">Конвертировать</string>
+    <string name="final_currency_amount">Сумма в конечной валюте</string>
+</resources>
